@@ -4,6 +4,12 @@
     <title>Hello World</title>
     <url>/2022/07/28/hello-world/</url>
     <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1>]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>「hello world」</tag>
+      </tags>
   </entry>
   <entry>
     <title>《AM》：声学细胞图案化技术构建各向异性肌肉组织</title>
@@ -47,5 +53,11 @@
 <p>在没有任何材料提示或复杂的制造程序的情况下，对排列的肌管纤维进行远程图案化的能力代表了肌肉组织工程领域的一个重大进展。总的来说，这些结果是由声学图案细胞分化形成的工程细胞纤维的第一个实例。预计这种多功能的方法可以应用于许多复杂的组织形态，对空间组织细胞培养、类器官发育和生物电子学有更广泛的意义。</p>
 <h3 id="文章来源："><a href="#文章来源：" class="headerlink" title="文章来源："></a>文章来源：</h3><p><a class="link"   href="https://doi.org/10.1002/adma.201802649" >https://doi.org/10.1002/adma.201802649<i class="fas fa-external-link-alt"></i></a></p>
 ]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>「论文」</tag>
+      </tags>
   </entry>
 </search>
