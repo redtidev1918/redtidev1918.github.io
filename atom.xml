@@ -36,28 +36,4 @@
     
   </entry>
   
-  <entry>
-    <title>Hello World</title>
-    <link href="https://www.赤潮.xyz/2022/07/28/hello-world/"/>
-    <id>https://www.赤潮.xyz/2022/07/28/hello-world/</id>
-    <published>2022-07-28T04:50:29.498Z</published>
-    <updated>2022-11-16T08:58:23.917Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World!&quot;&gt;&lt;/a&gt;Hello World!&lt;/h1&gt;</summary>
-      
-    
-    
-    
-    <category term="Test" scheme="https://www.赤潮.xyz/categories/Test/"/>
-    
-    
-    <category term="「hello world」" scheme="https://www.赤潮.xyz/tags/%E3%80%8Chello-world%E3%80%8D/"/>
-    
-  </entry>
-  
 </feed>
