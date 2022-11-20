@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.赤潮.xyz/2022/11/20/%E9%93%B8%E5%89%91-1/</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.赤潮.xyz/2022/07/29/%E3%80%8AAM%E3%80%8B%EF%BC%9A%E5%A3%B0%E5%AD%A6%E7%BB%86%E8%83%9E%E5%9B%BE%E6%A1%88%E5%8C%96%E6%8A%80%E6%9C%AF%E6%9E%84%E5%BB%BA%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E8%82%8C%E8%82%89%E7%BB%84%E7%BB%87/</loc>
     
-    <lastmod>2022-11-16</lastmod>
+    <lastmod>2022-11-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -44,10 +53,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.赤潮.xyz/tags/%E3%80%8C%E6%9D%82%E6%96%87%E3%80%8D/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://www.赤潮.xyz/categories/Test/</loc>
+    <loc>https://www.赤潮.xyz/categories/%E8%AE%BA%E6%96%87/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.赤潮.xyz/categories/%E6%9D%82%E6%96%87/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
